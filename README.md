@@ -522,7 +522,7 @@ Key Git Integration Features in VS Code:
                                       
                                       
                                       
-                         Citation(s)
+                                          Citation(s)
 
 Articles:
 
@@ -537,6 +537,7 @@ Articles:
 
 4. Git Handbook - Version Control with Git:
    - [Version Control with Git](https://git-scm.com/book/en/v2)
+
 Books:
 
 1. "Pro Git" by Scott Chacon and Ben Straub:
